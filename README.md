@@ -1,2 +1,3 @@
 # Projetos_e_estudos
- Projetos Ciência de Dados
+ Projetos de Ciência de Dados
+- Projeto Titanic
